@@ -137,7 +137,10 @@
   border-bottom-color: #eeeeee; }
 .shepherd-element.shepherd-theme-arrows.shepherd-has-title .shepherd-content header {
   background: #eeeeee;
-  padding: 1em; }
+  padding: 1em; 
+  border-top-right-radius: 3px;
+  border-top-left-radius: 3px;}
+  
   .shepherd-element.shepherd-theme-arrows.shepherd-has-title .shepherd-content header a.shepherd-cancel-link {
     padding: 0;
     margin-bottom: 0; }
@@ -187,7 +190,8 @@
       .shepherd-element.shepherd-theme-arrows .shepherd-content .shepherd-text p a {
         color: #3288e6;}
   .shepherd-element.shepherd-theme-arrows .shepherd-content footer {
-    padding: 0 1em 1em; }
+    padding: 0 1em 1em; 
+    border-radius: 3px;}
     .shepherd-element.shepherd-theme-arrows .shepherd-content footer .shepherd-buttons {
       text-align: right;
       list-style: none;
